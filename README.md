@@ -1,12 +1,12 @@
 Overview of the Idea
 The proposed FinTech Learning Community Website aims to serve as a comprehensive platform that empowers individuals with knowledge and tools to understand and navigate the complex world of finance and technology. The website bridges the educational gap by providing resources ranging from basic financial concepts to advanced topics such as UPI, cryptocurrency, blockchain, and stock market simulations. It fosters a like-minded community of learners who share experiences, collaborate, and grow together. Additionally, it offers guidance on loan brokerage, access to government financial services, and resource management tools.
-
+-----------------------------------------------------------------------
 Key Features
-Financial Education:
+# Financial Education:
 
-Beginner to Advanced Modules: Start with fundamental financial literacy, progressing to advanced topics like cryptocurrency and blockchain.
-Interactive Tutorials: Video lessons, and gamified learning for better retention.
-– Widget to have a realtime sensex and nifty value.
+1. Beginner to Advanced Modules: Start with fundamental financial literacy, progressing to advanced topics like cryptocurrency and blockchain.
+2. Interactive Tutorials: Video lessons, and gamified learning for better retention.
+3. – Widget to have a realtime sensex and nifty value.
 Collaborative Learning Groups:
 
 Enable users to form study groups for collaborative learning and projects.
